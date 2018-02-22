@@ -1,5 +1,6 @@
+![nery profile image](profile.jpeg)
 # Nery Chapeton-Lamas
-## Contact Info: [Email](nchapetonLamas@miracosta.edu) [LinkedIn](https://www.linkedin.com/in/nerychapeton/)
+## Contact Info: ![email icon](Mail-icon.png) [Email](nchapetonLamas@miracosta.edu) ![linkedin icon](linkedin-icon.png) [LinkedIn](https://www.linkedin.com/in/nerychapeton/)
 
 
 ## Education
