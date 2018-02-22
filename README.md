@@ -12,16 +12,16 @@ B.S., Computer Science & Engineering - June 2010
 *Specialization: Embedd Systems*
 
 ## Skills
-- Primary Languages: Java, Objective-C, Bash
-- Secondary Languages: Python, C/C++, PHP, MySQL, HTML, JavaScript, CSS, XML, Android 4.0
-- Operating Systems: Mac OS X, Linux (Ubuntu, Arch Linux), Windows
-- Foreign Languages:  Fluent native Spanish speaker/writer
+- **Primary Languages**: Java, Objective-C, Bash
+- **Secondary Languages**: Python, C/C++, PHP, MySQL, HTML, JavaScript, CSS, XML, Android 4.0
+- **Operating Systems**: Mac OS X, Linux (Ubuntu, Arch Linux), Windows
+- **Foreign Languages**:  Fluent native Spanish speaker/writer
 
 
 ## Teaching Experience
 - **Tenure-Track Full-Time Faculty – Computer Science**
 	- *MiraCosta College (Fall 2012 - Present)*
-	- Currently teaching: CS 111 Introduction to Computer Science I: Java, course introduces computer science and an object-oriented programming language and develops basic programming skills. CS 220 Computer Architecture, integrating key notions from algorithms, computer architecture, operating systems, compilers, and software engineering in one unified framework to build a computer from scratch (in a simulator) using the NAND2Tetris curriculum. CS 150 C++ Programming, course introduces software development concepts, as well as object-oriented programming design patterns through learning C++ programming.  CS 134 Mobile Development, course introduced Android environment and app development by teaching concepts such as Model-View-Controller, target-action paradigm, and software development methodologies like Agile. 
+	- Currently teaching: *CS 111 Introduction to Computer Science I: Java*, course introduces computer science and an object-oriented programming language and develops basic programming skills. *CS 220 Computer Architecture*, integrating key notions from algorithms, computer architecture, operating systems, compilers, and software engineering in one unified framework to build a computer from scratch (in a simulator) using the NAND2Tetris curriculum. *CS113 Data Structures and Algorithms*, course introduces data structures (linked lists, queues, stacks, trees, graphs) through project-based learning to practice software development methodologies like Agile/Scrum.
 - **Adjunct Professor – Computer Science**
 	- *Saddelback College (Fall 2012 - Summer 2014)*
 	- Taught CS 1A Introduction to Computer Science, course begins with a broad overview of the field, covering topics like: history, simple arithmetic, hardware, software, and problem solving.  Introduces C++ programming while providing a solid foundation in creating well-documented, manageable code.  Also co-taught CS 1B (Intermediate C++), CS 1C (Advanced C++) and CS 1D (Data Structures) further exploring C++ and Object Oriented Programming.
