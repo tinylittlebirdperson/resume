@@ -10,7 +10,7 @@ M.C.S., Computer Science - May 2012
 *Emphasis: Human Computer Interaction*
 - **University of California, Irvine**
 B.S., Computer Science & Engineering - June 2010
-*Specialization: Embedd Systems*
+*Specialization: Embedded Systems*
 
 ## Skills
 - **Primary Languages**: Java, Objective-C, Bash
