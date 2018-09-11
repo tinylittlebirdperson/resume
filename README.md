@@ -1,4 +1,4 @@
-![chanel profile image](profile.jpeg)
+!(pic.jpeg)
 ## Contact Info: ![email icon](Mail-icon.png) [Email](mailto:chanelcarp@gmail.com)
 
 
