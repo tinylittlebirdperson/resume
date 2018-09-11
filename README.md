@@ -1,4 +1,4 @@
-![nery profile image](profile.jpeg)
+![chanel profile image](profile.jpeg)
 # Chanel Carpenter
 ## Contact Info: ![email icon](Mail-icon.png) [Email](mailto:chanelcarp@gmail.com)
 
